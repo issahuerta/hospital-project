@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: 'Pymo Font';
+    src: url('./fonts/Filson Soft W03 Black.ttf');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face{
+    font-family: 'Pymo Font 2';
+    src: url('./fonts/PFAgoraSlabPro-Reg.ttf');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}
